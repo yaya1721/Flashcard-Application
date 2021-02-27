@@ -15,7 +15,7 @@
 
     <TextView
         android:id="@+id/flashcard_answer"
-        android:layout_below="@id/flashcard_question"
+        android:visibility="invisible"
         android:layout_width="match_parent"
         android:layout_height="200dp"
         android:gravity="center"
