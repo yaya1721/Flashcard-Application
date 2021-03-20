@@ -51,7 +51,7 @@ Android Mobile App Design
 ### App Walk-though
 
 
-<img src="https://gph.is/g/aNx8lB9" width=200><br>
+<img src="https://media.giphy.com/media/0X1rdNUsnqYju63xFg/giphy.gif" width=200><br>
 
 
 ## Required
