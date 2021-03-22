@@ -22,5 +22,11 @@
         android:text="Barack Obama"
         android:textSize="40sp" />
 
+    <ImageView
+        android:id="@+id/myBtn"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/add_btn" />
 
 </RelativeLayout>
